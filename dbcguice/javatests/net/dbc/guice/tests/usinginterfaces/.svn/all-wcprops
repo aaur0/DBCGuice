@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9/trunk/dbcguice/javatests/net/dbc/guice/tests/usinginterfaces
+END
+CarRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9/trunk/dbcguice/javatests/net/dbc/guice/tests/usinginterfaces/CarRepository.java
+END
+Car.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/dbcguice/javatests/net/dbc/guice/tests/usinginterfaces/Car.java
+END
+CarRepositoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/dbcguice/javatests/net/dbc/guice/tests/usinginterfaces/CarRepositoryImpl.java
+END
+ContractViolationCasesUsingInterfaces.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/7/trunk/dbcguice/javatests/net/dbc/guice/tests/usinginterfaces/ContractViolationCasesUsingInterfaces.java
+END

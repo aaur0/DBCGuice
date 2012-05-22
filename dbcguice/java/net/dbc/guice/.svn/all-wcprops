@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/9/trunk/dbcguice/java/net/dbc/guice
+END
+Alias.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9/trunk/dbcguice/java/net/dbc/guice/Alias.java
+END
+HasContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/dbcguice/java/net/dbc/guice/HasContract.java
+END
+Invariant.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9/trunk/dbcguice/java/net/dbc/guice/Invariant.java
+END
+Postcondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9/trunk/dbcguice/java/net/dbc/guice/Postcondition.java
+END
+NeverReturnsNull.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9/trunk/dbcguice/java/net/dbc/guice/NeverReturnsNull.java
+END
+Precondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9/trunk/dbcguice/java/net/dbc/guice/Precondition.java
+END

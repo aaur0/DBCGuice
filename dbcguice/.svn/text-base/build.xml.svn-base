@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project default="all" name="DbCGuice">
+	
+	<target name="all">
+        <antcall target="init"/>
+        <antcall target="compile"/>
+        <antcall target="jar"/>
+        <antcall target="javadoc"/>
+        <antcall target="clean"/>
+    </target>
+        	
+    <target name="init">
+       	<mkdir dir="build"/>
+       	<mkdir dir="dist"/>
+    </target>
+        	
+    <target name="clean">
+        <delete dir="build"/>
+    </target>
+        	
+    <target name="compile">
+        <javac srcdir="java" 
+	           classpath="lib/aopalliance.jar;lib/bsh-2.0b2.jar;lib/guice-1.0.jar;lib/commons-lang-2.1.jar" 
+	           destdir="build"
+    	       excludes="javatests/*">
+    	</javac>
+    </target>
+        	
+    <target name="jar">
+        <jar destfile="dist/dbcguice.jar"
+             basedir="build"
+             includes="**/*.class"
+        	 excludes="javatests/*"/>
+    </target>
+        	
+	<target name="javadoc">
+		<javadoc 
+			destdir="docs" 
+			access="public" 
+			source="1.5" 
+			use="true" 
+			notree="false" 
+			nonavbar="false" 
+			noindex="false" 
+			splitindex="true" 
+			author="true" 
+			version="true" 
+			nodeprecatedlist="false" 
+			nodeprecated="false" 
+           classpath="lib/aopalliance.jar;lib/bsh-2.0b2.jar;lib/guice-1.0.jar;lib/commons-lang-2.1.jar" 
+			sourcepath="java"/>
+		<zip destfile="dist/dbcguice-doc.zip"
+			basedir="docs"/>
+	</target>
+</project>

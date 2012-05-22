@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/3/trunk/dbcguice/lib
+END
+commons-lang-2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/dbcguice/lib/commons-lang-2.1.jar
+END
+aopalliance.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/dbcguice/lib/aopalliance.jar
+END
+guice-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/dbcguice/lib/guice-1.0.jar
+END
+bsh-2.0b2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/dbcguice/lib/bsh-2.0b2.jar
+END
+junit-3.8.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/dbcguice/lib/junit-3.8.1.jar
+END

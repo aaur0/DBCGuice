@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9/trunk/dbcguice/java/net/dbc/guice/aop
+END
+DbcInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9/trunk/dbcguice/java/net/dbc/guice/aop/DbcInterceptor.java
+END
+ContractException.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/dbcguice/java/net/dbc/guice/aop/ContractException.java
+END

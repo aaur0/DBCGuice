@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9/trunk/dbcguice/java/net/dbc/guice/aop/contract
+END
+ContractType.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9/trunk/dbcguice/java/net/dbc/guice/aop/contract/ContractType.java
+END
+ContractEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/dbcguice/java/net/dbc/guice/aop/contract/ContractEvaluator.java
+END
+ContextConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/dbcguice/java/net/dbc/guice/aop/contract/ContextConstants.java
+END
+AbstractContractEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/dbcguice/java/net/dbc/guice/aop/contract/AbstractContractEvaluator.java
+END
+ContractDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9/trunk/dbcguice/java/net/dbc/guice/aop/contract/ContractDescriptor.java
+END
