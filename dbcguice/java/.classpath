@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/anand/code/DBCGuice/dbcguice/lib/aopalliance.jar"/>
+	<classpathentry kind="lib" path="/home/anand/code/DBCGuice/dbcguice/lib/bsh-2.0b2.jar"/>
+	<classpathentry kind="lib" path="/home/anand/code/DBCGuice/dbcguice/lib/commons-lang-2.1.jar"/>
+	<classpathentry kind="lib" path="/home/anand/code/DBCGuice/dbcguice/lib/guice-1.0.jar"/>
+	<classpathentry kind="lib" path="/home/anand/code/DBCGuice/dbcguice/lib/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="/home/anand/thrift/thrift-0.8.0/lib/java/build/libthrift-0.8.0.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/thriftclient"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

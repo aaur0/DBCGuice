@@ -180,6 +180,18 @@ public class ContractDescriptor {
 	public String getEval() {
 		return eval;
 	}
+	
+	public Map<String, String> getConMap(){
+		String[] stripeval = eval.split(":");
+		if (stripeval.length == 2){
+		Map<String, String> res = new LinkedHashMap<String, String>();
+		res.put(stripeval[0], stripeval[1]);
+			return res;
+		}
+		else
+			return null;		
+	}
+	
 
 	public String getDesc() {
 		return desc;
